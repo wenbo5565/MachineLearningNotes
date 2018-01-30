@@ -4,4 +4,4 @@ This repository contains short notes on some machine learning models. These note
 
 All files are now in html. Please click the hyperlink to view it.
 
-[Support Vector Machine](http://htmlpreview.github.io/?https://github.com/wenbo5565/MachineLearningNotes/blob/master/svm.html) Introduces the motivation and formulation of standard SVM
+[Support Vector Machine]( http://htmlpreview.github.io/?https://github.com/wenbo5565/MachineLearningNotes/blob/master/svm.html) Introduces the motivation and formulation of standard SVM
